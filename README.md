@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mr-Nobody-exe/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/Mr-Nobody-exe/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
